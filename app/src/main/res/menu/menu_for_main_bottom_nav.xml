@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navAppointment"
+        android:title="홈"
+        android:icon="@drawable/bottom_nav_home_removebg_removebg"/>
+
+    <item
+        android:id="@+id/navFriend"
+        android:title="공고"
+        android:icon="@drawable/bottom_nav_paper_preview_removebg"/>
+
+    <item
+        android:id="@+id/navProfile"
+        android:title="MY"
+        android:icon="@drawable/bottom_nav_my_profile_removebg"/>
+
+</menu>
